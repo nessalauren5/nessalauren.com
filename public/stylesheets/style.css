@@ -364,4 +364,33 @@ hr.fancy-line, hr.fancy-line:before {
   background: radial-gradient(ellipse at center, rgba(0,0,0,0.1) 0%,rgba(0,0,0,0) 75%);
 }
 
+.logos ul li {
+  position: absolute;
+  text-align:center;
+  display: inline-block;
+  width: 100%;
 
+}
+
+a.facebook{
+  background-image: url("../images/fbblack.png");
+}
+
+a.facebook:hover{
+  background-image: url("../images/fbgold.png");
+}
+
+a.twitter{
+  background-image: url("../images/twitterb.png");
+}
+
+a.twitter:hover{
+  background-image: url("../images/twitterg.png");
+}
+
+a.linkedin{
+  background-image: url("../images/linkedinblack.png");
+}
+a.linkedin:hover{
+  background-image: url("../images/linkedingold.png");
+}

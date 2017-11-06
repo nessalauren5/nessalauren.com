@@ -368,7 +368,7 @@ hr.fancy-line, hr.fancy-line:before {
   position: absolute;
   text-align:center;
   display: inline-block;
-  width: 100%;
+  min-width: 128px;
 
 }
 

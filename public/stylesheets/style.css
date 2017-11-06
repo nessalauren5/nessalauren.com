@@ -4,6 +4,10 @@ body {
   background-color: #fcfcfc;
   color: #60808c;
 }
+
+.bottom-section{
+  padding-bottom: 30px;
+}
 .bottom-section{
   background-color: #fcfcfc;
 }
